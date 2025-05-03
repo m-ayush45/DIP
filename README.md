@@ -1,6 +1,6 @@
 1.HighPass
-📂 High-Pass Filtering in Grayscale Image using OpenCV
-🔍 Overview
+High-Pass Filtering in Grayscale Image using OpenCV
+* Overview
 This script loads a grayscale image and applies two types of high-pass filters (3x3 and 5x5 kernels) to enhance edges and fine details. The result is displayed using Matplotlib.
 📌 Features
 Load an image in grayscale.
@@ -17,6 +17,7 @@ The original source image
 The reference image
 The histogram-matched result
 Additionally, histograms of all images are compared to show the alignment between the source and the reference.
+
 
 
 
